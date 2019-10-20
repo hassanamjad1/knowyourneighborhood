@@ -20,7 +20,8 @@ We used HTML/CSS in order to develop the structure of the site while giving the 
 
 Challenges we ran into:
 
-We ran into a couple of challenges due to a lack of knowledge regarding HTML/CSS/js languages and using Github.
+Due to lack of familiarity with front-end development, we watched several youtube videos and implemented knowledge gained from the attended workshops during the hackathon in order to get done with "know your neighborhood" project.
+
 
 
 
@@ -44,6 +45,7 @@ What we learned:
 
 
 What's next for Know Your Neighborhood:
+
 -More locations
 
 -More Statistical Data
