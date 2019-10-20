@@ -56,7 +56,7 @@ What's next for Know Your Neighborhood:
 
 
 
-Team Members 
+Team Members:
   
   Master/Project Manager: Hassan Amjad, Queens College
 
