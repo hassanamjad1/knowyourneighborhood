@@ -1,4 +1,4 @@
-Objective :
+##Objective :
 Our objective is to assemble a web app that helps educate people to learn more about their potential neighborhood. For example, learning the neighborhood’s Affordability, Job Availability, school’s education system and the crime rates.
 Goal : 
 To build a web app that lessons the hassle of people moving to new neighborhoods.
